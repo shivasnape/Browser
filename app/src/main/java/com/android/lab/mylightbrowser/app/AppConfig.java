@@ -13,5 +13,5 @@ public class AppConfig {
     //NOTIFICATION COUNT
     public static int notificationCount = 15;
     //DOMAIN URL
-    public static String domainURL = "http://wesixitsolutions.com/demo/girlzie/";
+    public static String domainGOOGLE = "http://www.google.com";
 }
